@@ -4,7 +4,7 @@
     'category': 'Sales/Point of Sale',
     'summary': 'pos employee pricelist',
     'description': 'pos employee pricelist',
-    'website': 'http://warlocktechnologies.com',
+    'website': 'https://adelnetworks.com',
     'depends': ['point_of_sale','pos_hr'],
     'data': [
         'views/assets.xml',

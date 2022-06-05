@@ -6,9 +6,9 @@
     "description": """
         pos restaurant location access
     """,
-    "author": "Warlock Technologies Pvt Ltd.",
-    "website": "http://warlocktechnologies.com",
-    "support": "info@warlocktechnologies.com",
+    "author": "Adel Networks.",
+    "website": "http://adelnetworks.com",
+    "support": "adelbeltran03@gmail.com.com",
     "depends": ['pos_restaurant','pos_hr'],
     "data": [
         "views/assets.xml",
